@@ -1,0 +1,25 @@
+# Ignore Node.js build artifacts
+node_modules/
+dist/
+
+# Ignore environment configuration
+.env
+
+# Ignore JavaScript files
+*.js
+*.map
+
+# Ignore coverage reports
+coverage/
+
+# Ignore log files
+*.log
+
+# Ignore editor specific folders
+.idea/
+.vscode/
+
+# Ignore Vim temporary files
+*.swp
+*.swo
+*.swm
